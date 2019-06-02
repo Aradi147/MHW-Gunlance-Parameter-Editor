@@ -1,0 +1,14 @@
+C:\Users\Ali Alaradi\source\repos\Gunlance Parameter Editor\Gunlance Parameter Editor\bin\Release\Gunlance Parameter Editor.exe.config
+C:\Users\Ali Alaradi\source\repos\Gunlance Parameter Editor\Gunlance Parameter Editor\bin\Release\Gunlance Parameter Editor.exe
+C:\Users\Ali Alaradi\source\repos\Gunlance Parameter Editor\Gunlance Parameter Editor\bin\Release\Gunlance Parameter Editor.pdb
+C:\Users\Ali Alaradi\source\repos\Gunlance Parameter Editor\Gunlance Parameter Editor\obj\Release\MainWindow.g.cs
+C:\Users\Ali Alaradi\source\repos\Gunlance Parameter Editor\Gunlance Parameter Editor\obj\Release\App.g.cs
+C:\Users\Ali Alaradi\source\repos\Gunlance Parameter Editor\Gunlance Parameter Editor\obj\Release\Gunlance Parameter Editor_MarkupCompile.cache
+C:\Users\Ali Alaradi\source\repos\Gunlance Parameter Editor\Gunlance Parameter Editor\obj\Release\Gunlance Parameter Editor_MarkupCompile.lref
+C:\Users\Ali Alaradi\source\repos\Gunlance Parameter Editor\Gunlance Parameter Editor\obj\Release\MainWindow.baml
+C:\Users\Ali Alaradi\source\repos\Gunlance Parameter Editor\Gunlance Parameter Editor\obj\Release\Gunlance Parameter Editor.g.resources
+C:\Users\Ali Alaradi\source\repos\Gunlance Parameter Editor\Gunlance Parameter Editor\obj\Release\Gunlance_Parameter_Editor.Properties.Resources.resources
+C:\Users\Ali Alaradi\source\repos\Gunlance Parameter Editor\Gunlance Parameter Editor\obj\Release\Gunlance Parameter Editor.csproj.GenerateResource.cache
+C:\Users\Ali Alaradi\source\repos\Gunlance Parameter Editor\Gunlance Parameter Editor\obj\Release\Gunlance Parameter Editor.csproj.CoreCompileInputs.cache
+C:\Users\Ali Alaradi\source\repos\Gunlance Parameter Editor\Gunlance Parameter Editor\obj\Release\Gunlance Parameter Editor.exe
+C:\Users\Ali Alaradi\source\repos\Gunlance Parameter Editor\Gunlance Parameter Editor\obj\Release\Gunlance Parameter Editor.pdb
